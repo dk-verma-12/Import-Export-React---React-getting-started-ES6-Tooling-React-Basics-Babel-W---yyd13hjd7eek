@@ -5,7 +5,7 @@ import '../styles/App.css';
 const App = () => {
   return (
     <div id="main">
-      <Heading />
+      <Heading/>
       <SubHeading />
       <InputQuery />
       <SubmitButton />
